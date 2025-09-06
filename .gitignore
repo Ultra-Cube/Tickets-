@@ -1,0 +1,131 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Windows
+*.lnk
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/c_cpp_properties.json
+.history/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+# Node.js (if using any automation tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python (if using any scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Personal notes and drafts
+/personal/
+/drafts/
+/notes/
+*.draft
+*.notes
+
+# Work in progress
+/wip/
+/temp/
+/sandbox/
+
+# Generated documentation
+/docs/generated/
+
+# IDE and editor specific
+*.sublime-project
+*.sublime-workspace
+.atom/
+.brackets.json
+
+# OS generated files
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Git specific
+*.orig
+*.rej
+
+# Ticket-specific ignores
+# Exclude personal ticket assignments (if staff create local tracking files)
+/assigned/
+/my-tickets/
+/personal-progress/
+
+# Exclude any local configuration
+config.local.*
+settings.local.*
+
+# Exclude any compiled or generated reports
+/reports/generated/
+/exports/
+*.pdf
+*.docx
+*.xlsx
+
+# Exclude any sensitive information files
+secrets.*
+credentials.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Exclude any local development databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Exclude any local caches
+.cache/
+cache/
