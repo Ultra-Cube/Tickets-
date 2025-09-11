@@ -39,9 +39,31 @@ Fix critical bugs in the multi-factor authentication system that are causing use
 
 ## 📚 Resources & References
 
-- [System Architecture Documentation](internal-link)
-- [Authentication Service API Documentation](internal-link)
-- [Production Error Logs](internal-link)
+- [System Architecture Documentation](/enterprise-resources/system-architecture.pdf)
+- [Authentication Service API Documentation](/enterprise-resources/auth-service-api-docs.pdf)
+- [Production Error Logs](/enterprise-resources/production-error-logs.txt)
+
+- [OWASP Authentication Guidelines](https://owasp.org/)
+
+
+## 📝 Step-by-Step Bug Fix Instructions
+
+1. Review production error logs and system architecture documentation.
+2. Reproduce authentication failures in staging environment using provided test cases.
+3. Debug token generation and validation logic using the sample debug checklist.
+4. Fix session timeout issues and validate across all supported browsers/devices.
+5. Implement error handling and logging improvements using the provided template.
+6. Update system monitoring configuration using the monitoring template.
+7. Document all changes and testing procedures using the change log template.
+
+## 📎 Attachments & Work Parts
+
+- Debug Checklist: See shared drive or request from project manager.
+- Error Handling Template: See shared drive or request from project manager.
+- Monitoring Configuration Template: See shared drive or request from project manager.
+- Change Log Template: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/auth-system-fix/
 - [OWASP Authentication Guidelines](https://owasp.org/)
 
 ## 🔒 Security Considerations
