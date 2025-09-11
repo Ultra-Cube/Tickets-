@@ -1,5 +1,43 @@
 # Security Awareness Poster Campaign
 
+| Section                | Details                                                      |
+|------------------------|--------------------------------------------------------------|
+| **Ticket ID**          | UCT-CYB-021                                                  |
+| **Title**              | Visual Security Awareness Materials Design                   |
+| **Type**               | Cybersecurity                                                |
+| **Priority**           | Low                                                          |
+| **Difficulty**         | ⭐⭐                                                          |
+| **Estimated Time**     | 2-3 days                                                     |
+| **Deadline**           | 2025-09-20                                                   |
+| **Support Contact**    | posters@ultra-cube.com (Security Communications Team)        |
+
+---
+
+## 📝 Task Overview
+Design engaging security awareness posters and digital materials for office and corporate communications.
+
+## 🎯 Expected Outcome
+- 10-12 security awareness posters
+- Digital versions for displays
+- Example completed poster and digital file
+- QR codes for additional resources
+
+## 🆘 Support Contact
+For help, contact posters@ultra-cube.com or the Security Communications Team.
+
+## 📚 Glossary
+- **Infographic**: Visual representation of information
+- **QR Code**: Scannable code linking to resources
+- **Branding**: Consistent visual identity
+- **Accessibility**: Inclusive design for all users
+
+## ✅ Completion Checklist
+- [ ] Posters and digital files created
+- [ ] Example poster included
+- [ ] QR codes and resources provided
+- [ ] All deliverables attached in ticket
+
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-021
