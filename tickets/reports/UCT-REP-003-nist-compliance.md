@@ -39,6 +39,32 @@ Conduct comprehensive assessment of organizational compliance with NIST Cybersec
 
 ## 📚 Resources & References
 
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [NIST SP 800-53 Security Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+- [SANS Compliance Resources](https://www.sans.org/compliance/)
+
+## 📝 Step-by-Step Instructions
+
+1. Map current security controls to NIST CSF categories using the mapping template.
+2. Assess maturity level for each framework function using the maturity assessment checklist.
+3. Identify compliance gaps and control deficiencies using the gap analysis template.
+4. Evaluate risk exposure using the risk assessment template.
+5. Provide remediation roadmap with timelines and priorities using the roadmap template.
+6. Prepare executive summary for senior leadership using the summary template.
+7. Prepare final report using the report template.
+
+## 📎 Attachments & Work Parts
+
+- Mapping Template: See shared drive or request from project manager.
+- Maturity Assessment Checklist: See shared drive or request from project manager.
+- Gap Analysis Template: See shared drive or request from project manager.
+- Risk Assessment Template: See shared drive or request from project manager.
+- Remediation Roadmap Template: See shared drive or request from project manager.
+- Executive Summary Template: See shared drive or request from project manager.
+- Report Template: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/nist-compliance/
+
 - [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
 - [Current Security Control Documentation](internal-link)
 - [Previous Compliance Assessments](internal-archive)
