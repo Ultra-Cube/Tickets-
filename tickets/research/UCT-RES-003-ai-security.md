@@ -39,6 +39,32 @@ Research and evaluate artificial intelligence and machine learning capabilities 
 
 ## 📚 Resources & References
 
+- [Gartner AI in Cybersecurity](https://www.gartner.com/en/information-technology/insights/artificial-intelligence)
+- [SANS AI Security Resources](https://www.sans.org/cyber-security-courses/ai-security/)
+- [ENISA AI Threat Landscape](https://www.enisa.europa.eu/publications/artificial-intelligence-threat-landscape)
+
+## 📝 Step-by-Step Instructions
+
+1. Research current AI/ML applications in cybersecurity using the research template.
+2. Evaluate vendor solutions with AI/ML capabilities using the vendor evaluation checklist.
+3. Analyze benefits and limitations of AI-powered security tools using the analysis template.
+4. Assess integration requirements with existing security infrastructure using the integration template.
+5. Identify potential use cases and implementation scenarios using the use case template.
+6. Provide recommendations for pilot programs and evaluation using the recommendations template.
+7. Prepare final report using the executive summary and report templates.
+
+## 📎 Attachments & Work Parts
+
+- Research Template: See shared drive or request from project manager.
+- Vendor Evaluation Checklist: See shared drive or request from project manager.
+- Analysis Template: See shared drive or request from project manager.
+- Integration Template: See shared drive or request from project manager.
+- Use Case Template: See shared drive or request from project manager.
+- Recommendations Template: See shared drive or request from project manager.
+- Executive Summary & Report Templates: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/ai-security/
+
 - [AI in Cybersecurity Research](academic-sources)
 - [Vendor AI/ML Security Solutions](various-vendors)
 - [Industry AI Security Case Studies](analyst-reports)
