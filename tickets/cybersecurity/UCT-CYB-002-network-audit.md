@@ -1,5 +1,37 @@
 # Network Infrastructure Security Audit
 
+## 🗂️ CYB Ticket Summary Table
+
+| Ticket ID   | Title                             | Deadline     | Main Task/Goal                    | Key Attachments/Templates         | Difficulty | Status   |
+|-------------|-----------------------------------|--------------|------------------------------------|-----------------------------------|------------|----------|
+| UCT-CYB-002 | Corporate Network Security Audit  | 2025-09-25   | Audit network infra, review configs| Credential Form, Audit Report     | ⭐⭐⭐⭐⭐      | Open     |
+
+## 📝 Task Overview
+Audit the security of the corporate network infrastructure, including firewalls, switches, routers, and wireless access points. Identify misconfigurations, weak controls, and attack vectors.
+
+## 🎯 Expected Outcome
+- Network topology mapped
+- Firewall rules analyzed
+- Wireless and segmentation reviewed
+- Recommendations documented
+
+## 📞 Support Contact
+- Security Team: security@company.com
+- Reviewer: Network Security Specialist
+
+## 📚 Glossary
+- **IDS/IPS**: Intrusion Detection/Prevention System
+- **VLAN**: Virtual Local Area Network
+- **NAC**: Network Access Control
+
+## ✅ Completion Checklist
+- [ ] Credentials obtained
+- [ ] Topology mapped
+- [ ] Firewall rules analyzed
+- [ ] Wireless security assessed
+- [ ] Segmentation reviewed
+- [ ] Recommendations provided
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-002
