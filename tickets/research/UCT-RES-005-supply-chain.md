@@ -39,10 +39,129 @@ Research software supply chain security risks and vulnerabilities affecting our 
 
 ## 📚 Resources & References
 
+- [NIST Supply Chain Security](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final)
+- [SANS Supply Chain Security Resources](https://www.sans.org/cyber-security-courses/supply-chain-security/)
+- [ENISA Supply Chain Threats](https://www.enisa.europa.eu/publications/supply-chain-attacks)
+
+## 📝 Step-by-Step Instructions
+
+1. Research current supply chain attack trends and methodologies using the research template.
+2. Inventory and analyze third-party software dependencies using the inventory template.
+3. Evaluate vendor security practices and risk assessment procedures using the vendor assessment checklist.
+4. Assess open source component usage and vulnerability management using the open source analysis template.
+5. Identify critical supply chain risk factors and attack vectors using the risk analysis template.
+6. Provide risk mitigation recommendations and best practices using the recommendations template.
+7. Prepare final report using the executive summary and report templates.
+
+## 📎 Attachments & Work Parts
+
+
+### Research Template
+**Title:** Supply Chain Security Research
+**Sections:**
+- Executive Summary
+- Attack Trends & Methodologies
+- Third-Party Dependency Analysis
+- Vendor Security Evaluation
+- Open Source Component Review
+- Risk Factors & Attack Vectors
+- Recommendations & Best Practices
+- References
+
+### Inventory Template
+| Dependency Name | Version | Source | Vendor | Risk Level | Notes |
+|----------------|---------|--------|--------|-----------|-------|
+| ExampleLib     | 2.1.0   | GitHub | ExampleCorp | Medium | Used in payment module |
+
+### Vendor Assessment Checklist
+- Is the vendor ISO 27001 certified?
+- Does the vendor provide regular security updates?
+- Are third-party penetration tests performed?
+- Is there a documented incident response process?
+- Are software components scanned for vulnerabilities?
+
+### Open Source Analysis Template
+| Component | Version | License | Vulnerabilities | Patch Status | Notes |
+|-----------|---------|---------|----------------|-------------|-------|
+| OpenSSL   | 1.1.1   | Apache  | CVE-2023-1234  | Patched     | Critical for encryption |
+
+### Risk Analysis Template
+- List critical supply chain risk factors:
+	- Outdated dependencies
+	- Unverified vendor security
+	- Unpatched open source components
+	- Lack of monitoring for supply chain attacks
+
+### Recommendations Template
+- Implement SBOM (Software Bill of Materials) for all products
+- Require vendors to provide security certifications
+- Regularly scan dependencies for vulnerabilities
+- Establish incident response for supply chain compromises
+
+### Executive Summary & Report Templates
+**Executive Summary:**
+Summarize key findings, risks, and recommendations in 1-2 pages for leadership.
+
+**Full Report Structure:**
+- Executive Summary
+- Methodology
+- Findings (Trends, Inventory, Vendor, Open Source, Risks)
+- Recommendations
+- Appendices (Checklists, Tables)
+
 - [NIST Supply Chain Risk Management](https://csrc.nist.gov/Projects/Supply-Chain-Risk-Management)
-- [Software Bill of Materials (SBOM) Guidelines](various-sources)
-- [Supply Chain Attack Case Studies](security-research)
-- [Current Software Inventory](internal-development-teams)
+
+### Software Bill of Materials (SBOM) Guidelines
+An SBOM is a formal record containing the details and supply chain relationships of components used in software. It should include:
+
+- Component name
+- Version
+- Supplier
+- Dependency relationships
+- License information
+- Known vulnerabilities
+
+**Sample SBOM Table:**
+
+| Component      | Version | Supplier     | License | Vulnerabilities | Notes                |
+|---------------|---------|-------------|---------|----------------|----------------------|
+| ExampleLib    | 2.1.0   | ExampleCorp | MIT     | CVE-2023-1234  | Used in payment flow |
+| OpenSSL       | 1.1.1   | OpenSSL Team| Apache  | CVE-2023-5678  | Critical for crypto  |
+
+### Supply Chain Attack Case Study Template
+
+**Case Study Title:** [Attack Name]
+
+**Summary:**
+Brief description of the attack, affected systems, and timeline.
+
+**Attack Vector:**
+How the attacker infiltrated the supply chain (e.g., compromised vendor, malicious update).
+
+**Impact:**
+Business, technical, and reputational consequences.
+
+**Lessons Learned:**
+Key takeaways and recommendations for prevention.
+
+**Example:**
+
+**Case Study Title:** SolarWinds Supply Chain Attack
+**Summary:** In 2020, attackers compromised SolarWinds' Orion software update, impacting thousands of organizations.
+**Attack Vector:** Malicious code injected into legitimate software update.
+**Impact:** Data breaches, espionage, and operational disruption.
+**Lessons Learned:**
+- Vet vendor security practices
+- Monitor for abnormal update activity
+- Implement defense-in-depth
+
+### Current Software Inventory Table
+
+| Application      | Version | Owner         | Criticality | Last Update | Notes                |
+|------------------|---------|--------------|-------------|-------------|----------------------|
+| PaymentService   | 3.2.0   | Dev Team A    | High        | 2025-08-10  | Handles transactions |
+| CRMSystem        | 5.1.1   | Dev Team B    | Medium      | 2025-07-22  | Customer data        |
+| AnalyticsEngine  | 1.0.5   | Dev Team C    | High        | 2025-09-01  | Business intelligence|
 
 ## 🔒 Security Considerations
 
