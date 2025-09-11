@@ -1,5 +1,43 @@
 # Security Incident Response Training
 
+| Section                | Details                                                      |
+|------------------------|--------------------------------------------------------------|
+| **Ticket ID**          | UCT-CYB-026                                                  |
+| **Title**              | Tabletop Exercise Development for Incident Response          |
+| **Type**               | Cybersecurity                                                |
+| **Priority**           | High                                                         |
+| **Difficulty**         | ⭐⭐                                                          |
+| **Estimated Time**     | 4-5 days                                                     |
+| **Deadline**           | 2025-09-24                                                   |
+| **Support Contact**    | ir@ultra-cube.com (Incident Response Team)                   |
+
+---
+
+## 📝 Task Overview
+Design and develop tabletop exercises for incident response training, including scenarios, guides, and evaluation criteria.
+
+## 🎯 Expected Outcome
+- 3-5 tabletop exercise scenarios
+- Facilitator guides and participant materials
+- Example completed exercise and report
+- Evaluation and debrief procedures
+
+## 🆘 Support Contact
+For help, contact ir@ultra-cube.com or the Incident Response Team.
+
+## 📚 Glossary
+- **Tabletop Exercise**: Simulated incident response scenario
+- **Facilitator**: Person leading the exercise
+- **Debrief**: Review of exercise outcomes
+- **Escalation**: Moving an incident to higher priority
+
+## ✅ Completion Checklist
+- [ ] Exercise scenarios and guides created
+- [ ] Example exercise and report included
+- [ ] Evaluation and debrief documented
+- [ ] All deliverables attached in ticket
+
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-026
