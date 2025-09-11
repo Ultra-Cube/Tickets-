@@ -1,5 +1,44 @@
 # Cloud Security Configuration Review
 
+| Section                | Details                                                      |
+|------------------------|--------------------------------------------------------------|
+| **Ticket ID**          | UCT-CYB-016                                                  |
+| **Title**              | AWS/Azure Security Baseline Assessment                       |
+| **Type**               | Cybersecurity                                                |
+| **Priority**           | High                                                         |
+| **Difficulty**         | ⭐⭐⭐                                                         |
+| **Estimated Time**     | 4-5 days                                                     |
+| **Deadline**           | 2025-09-24                                                   |
+| **Support Contact**    | cloud@ultra-cube.com (Cloud Security Team)                   |
+
+---
+
+## 📝 Task Overview
+Conduct a security assessment of AWS and Azure configurations, including IAM, network, encryption, and compliance checks.
+
+## 🎯 Expected Outcome
+- Assessment of cloud security configurations
+- Example completed assessment report
+- Recommendations for improvements
+- Compliance checklist
+
+## 🆘 Support Contact
+For help, contact cloud@ultra-cube.com or the Cloud Security Team.
+
+## 📚 Glossary
+- **IAM**: Identity and Access Management
+- **Encryption**: Protecting data at rest and in transit
+- **CIS Benchmark**: Cloud security best practices
+- **Network Security Group**: Controls network access in cloud
+
+## ✅ Completion Checklist
+- [ ] IAM, network, and encryption reviewed
+- [ ] Compliance checklist included
+- [ ] Example report provided
+- [ ] Recommendations documented
+- [ ] All deliverables attached in ticket
+
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-016
@@ -16,47 +55,42 @@ Conduct comprehensive security assessment of cloud infrastructure configurations
 
 ## 👤 User Story
 
-**As a** cloud security engineer
 **I want** to ensure our cloud environments are securely configured
 **So that** we maintain strong security posture and compliance in the cloud
 
 ## 📝 Acceptance Criteria
 
-- [ ] Review IAM policies and access controls
 - [ ] Assess network security configurations
 - [ ] Verify encryption implementation for data at rest and in transit
 - [ ] Check logging and monitoring configurations
-- [ ] Evaluate backup and disaster recovery settings
-- [ ] Compare configurations against CIS benchmarks
-
-## 🔧 Technical Requirements
-
-- Deep knowledge of AWS/Azure security services
 - Understanding of cloud security frameworks
-- Experience with cloud security assessment tools
 - Knowledge of CIS benchmarks for cloud platforms
 - Scripting skills for automated assessments
 
-## 📚 Resources & References
+- [OWASP Cloud-Native Security](https://owasp.org/www-project-cloud-native-security/)
+## 📝 Step-by-Step Instructions
 
+1. Review IAM policies and access controls using the IAM review template.
+3. Verify encryption implementation for data at rest and in transit using the encryption checklist.
+4. Check logging and monitoring configurations using the logging template.
+5. Evaluate backup and disaster recovery settings using the backup template.
+6. Compare configurations against CIS benchmarks using the benchmark checklist.
+
+
+- IAM Review Template: See shared drive or request from project manager.
+- Network Security Checklist: See shared drive or request from project manager.
+- Logging Template: See shared drive or request from project manager.
+- Backup Template: See shared drive or request from project manager.
+- Benchmark Checklist: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/cloud-security/
 - [CIS AWS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 - [CIS Azure Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
-- [Azure Security Center Documentation](https://docs.microsoft.com/en-us/azure/security-center/)
-
-## 🔒 Security Considerations
-
-- Use read-only access for assessments
 - Protect cloud configuration details
-- Ensure assessment doesn't disrupt services
 - Include data classification and protection requirements
 
 ## 📤 Deliverables
-
-- [ ] Cloud security assessment report
-- [ ] Configuration remediation recommendations
-- [ ] Automated security scanning scripts
-- [ ] Cloud security monitoring improvements
 - [ ] Compliance gap analysis and action plan
 
 ## 👥 Assignment
