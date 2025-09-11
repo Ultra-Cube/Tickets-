@@ -1,5 +1,44 @@
 # IoT Device Security Assessment
 
+| Section                | Details                                                      |
+|------------------------|--------------------------------------------------------------|
+| **Ticket ID**          | UCT-CYB-024                                                  |
+| **Title**              | Internet of Things (IoT) Security Evaluation                 |
+| **Type**               | Cybersecurity                                                |
+| **Priority**           | Medium                                                       |
+| **Difficulty**         | ⭐⭐⭐                                                         |
+| **Estimated Time**     | 4-5 days                                                     |
+| **Deadline**           | 2025-09-27                                                   |
+| **Support Contact**    | iot@ultra-cube.com (IoT Security Team)                       |
+
+---
+
+## 📝 Task Overview
+Conduct a security assessment of IoT devices, including configuration, authentication, network, and update procedures. Document findings and recommendations.
+
+## 🎯 Expected Outcome
+- Inventory of IoT devices
+- Assessment of authentication, network, and updates
+- Example completed assessment and report
+- Recommendations for remediation
+
+## 🆘 Support Contact
+For help, contact iot@ultra-cube.com or the IoT Security Team.
+
+## 📚 Glossary
+- **IoT**: Internet of Things
+- **Firmware**: Software running on a device
+- **Segmentation**: Network separation for security
+- **Remediation**: Steps to fix security issues
+
+## ✅ Completion Checklist
+- [ ] IoT devices inventoried
+- [ ] Authentication and network assessed
+- [ ] Example report included
+- [ ] Recommendations documented
+- [ ] All deliverables attached in ticket
+
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-024
