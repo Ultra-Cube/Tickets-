@@ -39,10 +39,33 @@ Research current ransomware threats, attack vectors, and defense strategies. Ana
 
 ## 📚 Resources & References
 
-- [Ransomware Threat Intelligence](security-vendors)
-- [Incident Response Case Studies](industry-reports)
-- [Backup and Recovery Best Practices](technology-vendors)
-- [Current Backup Infrastructure](internal-documentation)
+- [CISA Ransomware Guidance](https://www.cisa.gov/news-events/ransomware)
+- [SANS Ransomware Defense Resources](https://www.sans.org/cyber-security-courses/ransomware-defense/)
+- [NIST SP 800-184: Guide for Cybersecurity Event Recovery](https://csrc.nist.gov/publications/detail/sp/800-184/final)
+- [Backup and Recovery Best Practices](/enterprise-resources/backup-recovery-best-practices.pdf)
+- [Current Backup Infrastructure](/enterprise-resources/current-backup-infrastructure.pdf)
+
+## 📝 Step-by-Step Instructions
+
+1. Research current ransomware threat landscape and attack trends using the research template.
+2. Analyze ransomware attack vectors and infection methods using the attack analysis checklist.
+3. Evaluate advanced protection technologies and solutions using the technology evaluation template.
+4. Research incident response and recovery best practices using the response template.
+5. Assess backup and disaster recovery requirements using the backup assessment template.
+6. Provide comprehensive defense strategy recommendations using the recommendations template.
+7. Prepare final report using the executive summary and report templates.
+
+## 📎 Attachments & Work Parts
+
+- Research Template: See shared drive or request from project manager.
+- Attack Analysis Checklist: See shared drive or request from project manager.
+- Technology Evaluation Template: See shared drive or request from project manager.
+- Response Template: See shared drive or request from project manager.
+- Backup Assessment Template: See shared drive or request from project manager.
+- Recommendations Template: See shared drive or request from project manager.
+- Executive Summary & Report Templates: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/ransomware-defense/
 
 ## 🔒 Security Considerations
 
