@@ -1,5 +1,44 @@
 # Wireless Network Security Assessment
 
+| Section                | Details                                                      |
+|------------------------|--------------------------------------------------------------|
+| **Ticket ID**          | UCT-CYB-030                                                  |
+| **Title**              | WiFi and Wireless Infrastructure Security Evaluation         |
+| **Type**               | Cybersecurity                                                |
+| **Priority**           | Medium                                                       |
+| **Difficulty**         | ⭐⭐⭐                                                         |
+| **Estimated Time**     | 3-4 days                                                     |
+| **Deadline**           | 2025-09-23                                                   |
+| **Support Contact**    | wireless@ultra-cube.com (Network Security Team)              |
+
+---
+
+## 📝 Task Overview
+Conduct a security assessment of wireless network infrastructure, including access points, encryption, and monitoring.
+
+## 🎯 Expected Outcome
+- Survey of wireless network and access points
+- Assessment of encryption and authentication
+- Example completed assessment and report
+- Recommendations for improvements
+
+## 🆘 Support Contact
+For help, contact wireless@ultra-cube.com or the Network Security Team.
+
+## 📚 Glossary
+- **Access Point**: Device providing wireless connectivity
+- **Segmentation**: Network separation for security
+- **Rogue Device**: Unauthorized device on the network
+- **Encryption**: Protecting data in transit
+
+## ✅ Completion Checklist
+- [ ] Wireless network surveyed
+- [ ] Encryption and authentication assessed
+- [ ] Example report included
+- [ ] Recommendations documented
+- [ ] All deliverables attached in ticket
+
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-030
