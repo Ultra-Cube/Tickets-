@@ -39,6 +39,32 @@ Research best practices for securing multi-cloud environments and hybrid infrast
 
 ## 📚 Resources & References
 
+- [NIST Multi-Cloud Security Guidance](https://csrc.nist.gov/publications/detail/sp/800-146/final)
+- [CIS Cloud Security Benchmarks](https://www.cisecurity.org/benchmarks/cloud/)
+- [ENISA Multi-Cloud Security](https://www.enisa.europa.eu/publications/multi-cloud-security)
+
+## 📝 Step-by-Step Instructions
+
+1. Research multi-cloud security challenges and considerations using the research template.
+2. Analyze security architectures and design patterns using the architecture analysis checklist.
+3. Evaluate cloud-native security tools and services using the tools evaluation template.
+4. Assess identity and access management across cloud providers using the IAM assessment template.
+5. Research compliance and governance in multi-cloud environments using the compliance checklist.
+6. Provide architectural recommendations and best practices using the recommendations template.
+7. Prepare final report using the executive summary and report templates.
+
+## 📎 Attachments & Work Parts
+
+- Research Template: See shared drive or request from project manager.
+- Architecture Analysis Checklist: See shared drive or request from project manager.
+- Tools Evaluation Template: See shared drive or request from project manager.
+- IAM Assessment Template: See shared drive or request from project manager.
+- Compliance Checklist: See shared drive or request from project manager.
+- Recommendations Template: See shared drive or request from project manager.
+- Executive Summary & Report Templates: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/multicloud-security/
+
 - [Cloud Security Alliance Guidelines](https://cloudsecurityalliance.org/)
 - [AWS/Azure/GCP Security Documentation](vendor-documentation)
 - [Multi-Cloud Architecture Patterns](industry-resources)
