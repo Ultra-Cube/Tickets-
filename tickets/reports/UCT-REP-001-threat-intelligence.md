@@ -39,6 +39,32 @@ Create comprehensive quarterly threat intelligence report analyzing current cybe
 
 ## 📚 Resources & References
 
+- [MITRE ATT&CK Threat Intelligence](https://attack.mitre.org/)
+- [MISP Threat Intelligence Platform](https://www.misp-project.org/)
+- [SANS Threat Intelligence Resources](https://www.sans.org/cyber-security-courses/threat-intelligence/)
+
+## 📝 Step-by-Step Instructions
+
+1. Collect threat intelligence data from internal and external sources using the provided data collection template.
+2. Analyze current threat landscape and attack trends using the analysis checklist.
+3. Review significant security incidents and assess threat actor activities using the incident review template.
+4. Evaluate threats specific to industry/client sectors using the sector analysis template.
+5. Provide risk assessment and business impact analysis using the risk assessment template.
+6. Document actionable recommendations for threat mitigation using the recommendations template.
+7. Prepare final report using the executive summary and report templates.
+
+## 📎 Attachments & Work Parts
+
+- Data Collection Template: See shared drive or request from project manager.
+- Analysis Checklist: See shared drive or request from project manager.
+- Incident Review Template: See shared drive or request from project manager.
+- Sector Analysis Template: See shared drive or request from project manager.
+- Risk Assessment Template: See shared drive or request from project manager.
+- Recommendations Template: See shared drive or request from project manager.
+- Executive Summary & Report Templates: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/threat-intelligence/
+
 - [MITRE ATT&CK Framework](https://attack.mitre.org/)
 - [Threat Intelligence Feeds](various-commercial-sources)
 - [Government Cybersecurity Alerts](CISA, FBI, etc.)

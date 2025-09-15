@@ -1,5 +1,35 @@
 # Incident Response Playbook Development
 
+## 🗂️ CYB Ticket Summary Table
+
+| Ticket ID   | Title                             | Deadline     | Main Task/Goal                    | Key Attachments/Templates         | Difficulty | Status   |
+|-------------|-----------------------------------|--------------|------------------------------------|-----------------------------------|------------|----------|
+| UCT-CYB-003 | Cybersecurity Incident Response Playbook | 2025-09-18   | Develop incident response playbook | Playbook, Communication Matrix, Forensics Checklist, Review Template | ⭐⭐⭐       | Open     |
+
+## 📝 Task Overview
+Develop a playbook for responding to cybersecurity incidents. Include step-by-step procedures, roles, communication protocols, and post-incident review.
+
+## 🎯 Expected Outcome
+- Playbooks for all major incident types
+- Clear roles and escalation paths
+- Evidence collection and review templates
+
+## 📞 Support Contact
+- Security Team: security@company.com
+- Reviewer: Security Awareness Manager
+
+## 📚 Glossary
+- **SIEM**: Security Information and Event Management
+- **EDR**: Endpoint Detection and Response
+- **Forensics**: Investigation of digital evidence
+
+## ✅ Completion Checklist
+- [ ] Playbooks created
+- [ ] Roles defined
+- [ ] Communication matrix included
+- [ ] Forensics checklist included
+- [ ] Post-incident review template included
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-003
@@ -38,6 +68,66 @@ Develop a comprehensive incident response playbook for common cybersecurity inci
 - Technical writing skills for clear documentation
 
 ## 📚 Resources & References
+
+- [NIST Computer Security Incident Handling Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
+- [SANS Incident Response Resources](https://www.sans.org/incident-response/)
+- [FIRST Incident Response Guide](https://www.first.org/global/sigs/incident-response)
+
+## 📝 Step-by-Step Instructions
+
+1. Identify 5+ common incident types relevant to the organization.
+2. Develop step-by-step response procedures for each incident type using the provided playbook template.
+3. Define roles and responsibilities for each incident type.
+4. Establish communication protocols and escalation paths using the provided communication matrix.
+5. Include evidence collection and forensics procedures using the forensics checklist.
+6. Provide post-incident review and lessons learned templates.
+
+## 📎 Attachments & Work Parts
+
+
+### Incident Response Playbook Template
+
+**Sections:**
+- Incident Type Overview
+- Detection Procedures
+- Containment Steps
+- Eradication Actions
+- Recovery Steps
+- Roles & Responsibilities
+- Communication Protocols
+- Evidence Collection Checklist
+- Post-Incident Review
+
+**Sample Incident Types:**
+- Malware Infection
+- Data Breach
+- Ransomware Attack
+- Insider Threat
+- Phishing Incident
+
+### Communication Matrix
+
+| Role           | Contact Method | Escalation Path | Notes                |
+|----------------|---------------|-----------------|----------------------|
+| SOC Analyst    | Email/Phone   | CISO            | 24/7 availability    |
+| IT Manager     | Email         | CTO             | Business hours only  |
+
+### Forensics Checklist
+
+- Secure affected systems
+- Collect volatile memory
+- Preserve disk images
+- Document evidence chain
+- Review logs and alerts
+
+### Post-Incident Review Template
+
+**Sections:**
+- Incident Summary
+- Timeline of Events
+- Lessons Learned
+- Improvement Opportunities
+- Action Items & Owners
 
 - [NIST SP 800-61: Computer Security Incident Handling Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
 - [SANS Incident Response Process](https://www.sans.org/white-papers/33901/)

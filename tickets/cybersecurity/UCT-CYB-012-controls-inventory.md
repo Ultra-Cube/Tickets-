@@ -1,5 +1,44 @@
 # Security Control Inventory and Documentation
 
+| Section                | Details                                                      |
+|------------------------|--------------------------------------------------------------|
+| **Ticket ID**          | UCT-CYB-012                                                  |
+| **Title**              | Enterprise Security Controls Catalog                         |
+| **Type**               | Cybersecurity                                                |
+| **Priority**           | Medium                                                       |
+| **Difficulty**         | ⭐⭐                                                          |
+| **Estimated Time**     | 4-5 days                                                     |
+| **Deadline**           | 2025-09-23                                                   |
+| **Support Contact**    | controls@ultra-cube.com (Security Controls Team)             |
+
+---
+
+## 📝 Task Overview
+Create a detailed inventory and documentation of all security controls (technical, administrative, physical) in the organization. Map controls to frameworks and assess effectiveness.
+
+## 🎯 Expected Outcome
+- Complete catalog of all security controls
+- Mapping to ISO 27001, NIST, and other frameworks
+- Assessment of control effectiveness and maturity
+- Example completed inventory and assessment report
+
+## 🆘 Support Contact
+For help, contact controls@ultra-cube.com or the Security Controls Team.
+
+## 📚 Glossary
+- **Technical Control**: Security implemented via technology (e.g., firewall)
+- **Administrative Control**: Policy or procedure-based control
+- **Physical Control**: Security measure for physical assets (e.g., locks)
+- **Control Maturity**: Level of development and effectiveness of a control
+
+## ✅ Completion Checklist
+- [ ] All controls inventoried and documented
+- [ ] Controls mapped to frameworks
+- [ ] Effectiveness and maturity assessed
+- [ ] Example inventory and report included
+- [ ] All deliverables attached in ticket
+
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-012
@@ -38,6 +77,28 @@ Create a comprehensive inventory and documentation of all security controls curr
 - Interview and documentation skills
 
 ## 📚 Resources & References
+
+- [NIST SP 800-53: Security and Privacy Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+- [ISO/IEC 27001 Control Catalog](https://www.iso.org/isoiec-27001-information-security.html)
+- [CIS Controls v8](https://www.cisecurity.org/controls/)
+
+## 📝 Step-by-Step Instructions
+
+1. Inventory all technical, administrative, and physical security controls using the provided catalog template.
+2. Map controls to security frameworks using the mapping template.
+3. Assess control effectiveness and maturity using the assessment checklist.
+4. Create a searchable control database using the provided spreadsheet template.
+5. Document findings and recommendations using the documentation template.
+
+## 📎 Attachments & Work Parts
+
+- Security Controls Catalog Template: See shared drive or request from project manager.
+- Framework Mapping Template: See shared drive or request from project manager.
+- Assessment Checklist: See shared drive or request from project manager.
+- Control Database Spreadsheet Template: See shared drive or request from project manager.
+- Documentation Template: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/controls-inventory/
 
 - [NIST SP 800-53 Security Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 - [ISO 27001 Control Objectives](https://www.iso.org/)

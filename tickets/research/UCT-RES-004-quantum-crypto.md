@@ -39,6 +39,32 @@ Research the impact of quantum computing on current cryptographic systems and ev
 
 ## 📚 Resources & References
 
+- [NIST Post-Quantum Cryptography Project](https://csrc.nist.gov/projects/post-quantum-cryptography)
+- [ENISA Quantum Security Guidance](https://www.enisa.europa.eu/publications/quantum-safe-cryptography)
+- [SANS Quantum Security Resources](https://www.sans.org/cyber-security-courses/quantum-safe-cryptography/)
+
+## 📝 Step-by-Step Instructions
+
+1. Research quantum computing threat timeline and capabilities using the research template.
+2. Analyze current cryptographic implementations and vulnerabilities using the crypto analysis checklist.
+3. Evaluate NIST post-quantum cryptography standards using the standards review template.
+4. Assess organizational quantum readiness and exposure using the readiness assessment template.
+5. Identify critical systems requiring cryptographic upgrades using the system inventory template.
+6. Develop transition planning recommendations using the transition plan template.
+7. Prepare final report using the executive summary and report templates.
+
+## 📎 Attachments & Work Parts
+
+- Research Template: See shared drive or request from project manager.
+- Crypto Analysis Checklist: See shared drive or request from project manager.
+- Standards Review Template: See shared drive or request from project manager.
+- Readiness Assessment Template: See shared drive or request from project manager.
+- System Inventory Template: See shared drive or request from project manager.
+- Transition Plan Template: See shared drive or request from project manager.
+- Executive Summary & Report Templates: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/quantum-crypto/
+
 - [NIST Post-Quantum Cryptography](https://csrc.nist.gov/Projects/post-quantum-cryptography)
 - [Quantum Computing Research](academic-and-industry-sources)
 - [Cryptographic Implementation Inventory](internal-documentation)

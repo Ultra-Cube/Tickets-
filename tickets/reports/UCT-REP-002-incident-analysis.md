@@ -39,6 +39,32 @@ Analyze security incidents from the previous month to identify trends, root caus
 
 ## 📚 Resources & References
 
+- [SANS Incident Analysis Resources](https://www.sans.org/incident-response/)
+- [MITRE ATT&CK Incident Analysis](https://attack.mitre.org/)
+- [NIST SP 800-61 Incident Handling Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
+
+## 📝 Step-by-Step Instructions
+
+1. Collect and categorize all security incidents from the month using the incident collection template.
+2. Analyze incident types, severity levels, and response times using the analysis checklist.
+3. Identify common attack vectors and root causes using the root cause template.
+4. Evaluate effectiveness of current security controls using the controls assessment template.
+5. Document lessons learned and improvement opportunities using the lessons learned template.
+6. Provide recommendations for preventive measures using the recommendations template.
+7. Prepare final report using the report template.
+
+## 📎 Attachments & Work Parts
+
+- Incident Collection Template: See shared drive or request from project manager.
+- Analysis Checklist: See shared drive or request from project manager.
+- Root Cause Template: See shared drive or request from project manager.
+- Controls Assessment Template: See shared drive or request from project manager.
+- Lessons Learned Template: See shared drive or request from project manager.
+- Recommendations Template: See shared drive or request from project manager.
+- Report Template: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/incident-analysis/
+
 - [NIST Incident Response Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
 - [Security Incident Database](internal-link)
 - [SIEM and Security Tool Logs](internal-access)

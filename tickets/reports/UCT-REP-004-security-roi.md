@@ -39,6 +39,32 @@ Analyze the return on investment (ROI) of cybersecurity initiatives and technolo
 
 ## 📚 Resources & References
 
+- [Gartner Security ROI Research](https://www.gartner.com/en/information-technology/insights/security-risk-management)
+- [NIST Cybersecurity Economics](https://csrc.nist.gov/publications/detail/sp/800-221/final)
+- [SANS Security Metrics Resources](https://www.sans.org/cyber-security-courses/security-metrics/)
+
+## 📝 Step-by-Step Instructions
+
+1. Identify and catalog all cybersecurity investments from the past year using the investment catalog template.
+2. Quantify security improvements and risk reduction using the improvement analysis checklist.
+3. Calculate cost savings from prevented incidents and improved efficiency using the cost savings template.
+4. Analyze productivity gains from security automation and tools using the productivity analysis template.
+5. Compare investments against industry benchmarks using the benchmarking template.
+6. Provide recommendations for future security investments using the recommendations template.
+7. Prepare final report using the executive summary and report templates.
+
+## 📎 Attachments & Work Parts
+
+- Investment Catalog Template: See shared drive or request from project manager.
+- Improvement Analysis Checklist: See shared drive or request from project manager.
+- Cost Savings Template: See shared drive or request from project manager.
+- Productivity Analysis Template: See shared drive or request from project manager.
+- Benchmarking Template: See shared drive or request from project manager.
+- Recommendations Template: See shared drive or request from project manager.
+- Executive Summary & Report Templates: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/security-roi/
+
 - [Cybersecurity ROI Frameworks](various-sources)
 - [Security Investment Database](internal-finance)
 - [Incident Cost Analysis](internal-data)

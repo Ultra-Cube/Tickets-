@@ -1,5 +1,44 @@
 # Third-Party Risk Assessment Framework
 
+| Section                | Details                                                      |
+|------------------------|--------------------------------------------------------------|
+| **Ticket ID**          | UCT-CYB-020                                                  |
+| **Title**              | Vendor Security Assessment Process Development               |
+| **Type**               | Cybersecurity                                                |
+| **Priority**           | Medium                                                       |
+| **Difficulty**         | ⭐⭐                                                          |
+| **Estimated Time**     | 4-5 days                                                     |
+| **Deadline**           | 2025-09-25                                                   |
+| **Support Contact**    | vendor@ultra-cube.com (Vendor Risk Team)                     |
+
+---
+
+## 📝 Task Overview
+Develop a framework for assessing and managing third-party cybersecurity risks. Include questionnaires, scoring, and monitoring procedures.
+
+## 🎯 Expected Outcome
+- Vendor assessment framework and questionnaires
+- Risk scoring methodology
+- Example completed assessment and report
+- Ongoing monitoring procedures
+
+## 🆘 Support Contact
+For help, contact vendor@ultra-cube.com or the Vendor Risk Team.
+
+## 📚 Glossary
+- **Third-Party**: External vendor or service provider
+- **Risk Scoring**: Method to quantify risk
+- **Ongoing Monitoring**: Continuous assessment of vendor risk
+- **Incident Response**: Actions taken after a vendor breach
+
+## ✅ Completion Checklist
+- [ ] Framework and questionnaires created
+- [ ] Risk scoring methodology included
+- [ ] Example assessment and report provided
+- [ ] Monitoring procedures documented
+- [ ] All deliverables attached in ticket
+
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-020

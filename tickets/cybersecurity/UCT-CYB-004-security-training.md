@@ -1,5 +1,35 @@
 # Security Awareness Training Content Development
 
+## 🗂️ CYB Ticket Summary Table
+
+| Ticket ID   | Title                             | Deadline     | Main Task/Goal                    | Key Attachments/Templates         | Difficulty | Status   |
+|-------------|-----------------------------------|--------------|------------------------------------|-----------------------------------|------------|----------|
+| UCT-CYB-004 | Security Awareness Training Module Creation | 2025-09-22   | Create 5 training modules, quizzes, etc. | Presentation, Quiz, Guide, Exercise | ⭐⭐         | Open     |
+
+## 📝 Task Overview
+Create comprehensive security awareness training materials for employees, including presentations, interactive modules, and quizzes.
+
+## 🎯 Expected Outcome
+- 5 training modules completed
+- Quizzes and exercises created
+- Trainer guide and facilitator notes ready
+
+## 📞 Support Contact
+- Security Team: security@company.com
+- Reviewer: Security Awareness Manager
+
+## 📚 Glossary
+- **Phishing**: Fraudulent attempt to obtain sensitive information
+- **Social Engineering**: Manipulating people to gain confidential info
+- **Facilitator**: Person leading the training
+
+## ✅ Completion Checklist
+- [ ] Modules created
+- [ ] Presentations developed
+- [ ] Quizzes designed
+- [ ] Exercises included
+- [ ] Trainer guide prepared
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-004
@@ -38,6 +68,28 @@ Create comprehensive security awareness training materials for employees includi
 - Experience with e-learning platforms
 
 ## 📚 Resources & References
+
+- [SANS Security Awareness Training](https://www.sans.org/security-awareness-training/)
+- [NIST Security Awareness and Training](https://csrc.nist.gov/publications/detail/sp/800-50/final)
+- [KnowBe4 Security Awareness Resources](https://www.knowbe4.com/security-awareness-training)
+
+## 📝 Step-by-Step Instructions
+
+1. Identify 5 key security topics for training modules (e.g., phishing, social engineering, password security, etc.).
+2. Develop interactive presentations for each topic using the provided template.
+3. Design assessment quizzes for each module using the quiz template.
+4. Create practical exercises and simulations using the exercise template.
+5. Prepare trainer guide and facilitator notes using the provided guide template.
+6. Ensure all content meets industry security standards.
+
+## 📎 Attachments & Work Parts
+
+- Training Module Presentation Template: See shared drive or request from project manager.
+- Assessment Quiz Template: See shared drive or request from project manager.
+- Practical Exercise Template: See shared drive or request from project manager.
+- Trainer Guide Template: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/security-training/
 
 - [NIST Cybersecurity Awareness Guidelines](https://csrc.nist.gov/)
 - [SANS Security Awareness Resources](https://www.sans.org/security-awareness-training/)

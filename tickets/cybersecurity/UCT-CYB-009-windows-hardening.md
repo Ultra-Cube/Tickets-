@@ -1,5 +1,44 @@
 # Security Baseline Configuration Guide
 
+| Section                | Details                                                      |
+|------------------------|--------------------------------------------------------------|
+| **Ticket ID**          | UCT-CYB-009                                                  |
+| **Title**              | Windows Server Security Hardening Guide                      |
+| **Type**               | Cybersecurity                                                |
+| **Priority**           | Medium                                                       |
+| **Difficulty**         | ⭐⭐⭐                                                         |
+| **Estimated Time**     | 3-4 days                                                     |
+| **Deadline**           | 2025-09-22                                                   |
+| **Support Contact**    | syseng@ultra-cube.com (Systems Engineering)                  |
+
+---
+
+## 📝 Task Overview
+Develop a step-by-step security hardening guide for Windows Server 2019/2022, including CIS benchmarks, validation, and rollback procedures. Provide automation scripts and checklists.
+
+## 🎯 Expected Outcome
+- Comprehensive Windows Server hardening guide
+- PowerShell automation scripts
+- Configuration checklists and validation tools
+- Example completed checklist and rollback plan
+
+## 🆘 Support Contact
+For help, contact syseng@ultra-cube.com or the Systems Engineering team.
+
+## 📚 Glossary
+- **CIS Benchmark**: Industry standard for secure configuration
+- **Group Policy**: Windows feature for centralized management
+- **PowerShell**: Scripting language for Windows automation
+- **Rollback**: Procedure to revert changes if issues occur
+
+## ✅ Completion Checklist
+- [ ] Hardening guide covers all CIS benchmark items
+- [ ] Automation scripts provided and tested
+- [ ] Validation and rollback procedures included
+- [ ] Example completed checklist attached
+- [ ] All deliverables included in ticket
+
+
 ## 📋 Ticket Information
 
 **Ticket ID**: UCT-CYB-009
@@ -11,7 +50,6 @@
 **Deadline**: 2025-09-22
 
 ## 🎯 Mission Description
-
 Create comprehensive security hardening guides for Windows Server environments. Develop step-by-step configuration procedures that align with CIS benchmarks and industry best practices for server security.
 
 ## 👤 User Story
@@ -21,11 +59,9 @@ Create comprehensive security hardening guides for Windows Server environments. 
 **So that** I can configure servers with appropriate security baseline settings
 
 ## 📝 Acceptance Criteria
-
 - [ ] Create hardening guide for Windows Server 2019/2022
 - [ ] Include CIS benchmark recommendations
 - [ ] Provide step-by-step configuration instructions
-- [ ] Create automated scripts for common configurations
 - [ ] Include validation and testing procedures
 - [ ] Document rollback procedures for changes
 
@@ -36,15 +72,23 @@ Create comprehensive security hardening guides for Windows Server environments. 
 - PowerShell scripting capabilities
 - Experience with Group Policy management
 - Knowledge of Windows security features
-
 ## 📚 Resources & References
 
+- [CIS Benchmarks for Windows Server](https://www.cisecurity.org/benchmark/microsoft_windows_server/)
+2. Follow step-by-step configuration instructions using the provided hardening guide template.
+4. Validate and test all changes using the validation checklist.
+5. Document rollback procedures for each change using the rollback template.
+
+
+- Hardening Guide Template: See shared drive or request from project manager.
+- PowerShell Script Samples: See shared drive or request from project manager.
+- Validation Checklist: See shared drive or request from project manager.
+- Rollback Procedure Template: See shared drive or request from project manager.
+
+For access to templates, see the shared drive: /enterprise-resources/windows-hardening/
 - [CIS Windows Server Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 - [Microsoft Security Baselines](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines)
 - [NIST SP 800-123 Server Security Guide](https://csrc.nist.gov/publications/detail/sp/800-123/final)
-
-## 🔒 Security Considerations
-
 - Ensure configurations don't break critical functionality
 - Test all recommendations in lab environment
 - Include security monitoring configurations
